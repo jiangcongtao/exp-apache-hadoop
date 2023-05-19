@@ -1,0 +1,6 @@
+[submodule "hadoop-single-node-cluster"]
+	path = hadoop-single-node-cluster
+	url = https://github.com/jiangcongtao/hadoop-single-node-cluster
+[submodule "docker-hadoop"]
+	path = docker-hadoop
+	url = https://github.com/jiangcongtao/docker-hadoop.git
